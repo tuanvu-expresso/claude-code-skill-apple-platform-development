@@ -1,6 +1,6 @@
 # Claude Code Skills for Apple Platform Development
 
-By **[Au Leo Studio](https://auleostudio.com)** | [hello@auleostudio.com](mailto:hello@auleostudio.com)
+By **[Au Léo Studio](https://auleostudio.com)** | [hello@auleostudio.com](mailto:hello@auleostudio.com)
 
 A comprehensive collection of 25 skill modules (421 files) for [Claude Code](https://claude.com/claude-code), covering the full Apple development lifecycle — from idea to App Store.
 
@@ -213,7 +213,7 @@ Claude Code automatically loads the relevant skill based on your conversation co
 
 ## Author
 
-**Au Leo Studio**
+**Au Léo Studio**
 - Web: [auleostudio.com](https://auleostudio.com)
 - Email: [hello@auleostudio.com](mailto:hello@auleostudio.com)
 - GitHub: [@tuanvu-expresso](https://github.com/tuanvu-expresso)
